@@ -12,6 +12,6 @@ _main:
     mov eax, 4   ;sys_write
     syscall
 
-  	mov ebx, 0   ;exit code
+    mov ebx, 0   ;exit code
     mov eax, 1   ;sys_exit
     syscall
