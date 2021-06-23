@@ -1,5 +1,5 @@
 # Assembly-Snippets
-Code snippets of assembly (OSX).
+Code snippets of assembly (MacOS).
 
 ### Requirements:
 * [NASM][1];
